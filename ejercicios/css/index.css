@@ -1,0 +1,16 @@
+#contenedor{
+    background-color: #f5ff90;
+    height: 750px;
+    width: 850px;
+}
+#menu{
+    background-color: #d6ffb7;
+    height: 750px;
+    width: 300;
+}
+
+#contenido{
+    background-color: #ff9f1c;
+    height: 750px;
+    width: 550px;
+}
