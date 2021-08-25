@@ -6,11 +6,33 @@
 #menu{
     background-color: #d6ffb7;
     height: 750px;
-    width: 300;
+    width: 295px;
+    display: inline-block;
 }
 
 #contenido{
     background-color: #ff9f1c;
     height: 750px;
     width: 550px;
+    display: inline-block;
+}
+
+#foto{
+    background-color: #1cff27;
+    height: 250px;
+    width: 290px;
+    display: inline-block;
+}
+
+#menu1{
+    background-color: #1c99ff;
+    height: 350px;
+    width: 290px;
+    display: inline-block;
+}
+#menu2{
+    background-color: #ff1c8e;
+    height: 150px;
+    width: 290px;
+    display: inline-block;
 }
